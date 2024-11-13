@@ -1,5 +1,5 @@
 
-# React Password Generaot
+# React Password Generator
 - Using useState Hooks
 - Using Material UI
 
